@@ -5,3 +5,9 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+# Premake
+Bin/
+Intermediates/
+
+*.vcxproj
