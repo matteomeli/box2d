@@ -11,3 +11,4 @@ Bin/
 Intermediates/
 
 *.vcxproj
+*.vcxproj.filters
